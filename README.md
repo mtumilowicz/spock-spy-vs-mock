@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.com/mtumilowicz/spock-spy-vs-mock.svg?branch=master)](https://travis-ci.com/mtumilowicz/spock-spy-vs-mock)
 
 # spock-spy-vs-mock
-The main goal of this project is to show different approached to stubbing represented by spy 
-and mock in `Spock`.
+The main goal of this project is to show different approaches to stubbing in `Spock` 
+(spy vs mock).
 
 # preface
 In general, difference between spy and mock is that the spy is always based on a real object,
