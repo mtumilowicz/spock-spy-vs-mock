@@ -9,7 +9,8 @@ In general, difference between spy and mock is that the spy is always based on a
 and if we call a method that was not stubbed on spy it executes exactly like on a real object.
 
 # project description
-The easiest example of difference between spy and mock is testing `ArrayList`:
+The  difference between spy and mock is clearly visible when it comes to 
+testing `ArrayList`:
 * mock
     ```
     def "mock"() {
